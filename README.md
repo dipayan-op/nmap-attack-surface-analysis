@@ -4,7 +4,7 @@
 
 ## About Nmap
 
-Nmap is a network scanning tool used to discover hosts, open ports, services, and operating systems by analyzing network responses. :contentReference[oaicite:1]{index=1}
+Nmap is a network scanning tool used to discover hosts, open ports, services, and operating systems by analyzing network responses. 
 
 ## 1. Objective
 To perform a network scan on a local system using Nmap and identify open ports, running services, and potential security risks.
